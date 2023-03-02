@@ -1,0 +1,15 @@
+C:\Users\Bailey\OneDrive\Documents\C# assignments\HelloMethods\bin\Debug\net7.0\HelloMethods.exe
+C:\Users\Bailey\OneDrive\Documents\C# assignments\HelloMethods\bin\Debug\net7.0\HelloMethods.deps.json
+C:\Users\Bailey\OneDrive\Documents\C# assignments\HelloMethods\bin\Debug\net7.0\HelloMethods.runtimeconfig.json
+C:\Users\Bailey\OneDrive\Documents\C# assignments\HelloMethods\bin\Debug\net7.0\HelloMethods.dll
+C:\Users\Bailey\OneDrive\Documents\C# assignments\HelloMethods\bin\Debug\net7.0\HelloMethods.pdb
+C:\Users\Bailey\OneDrive\Documents\C# assignments\HelloMethods\obj\Debug\net7.0\HelloMethods.csproj.AssemblyReference.cache
+C:\Users\Bailey\OneDrive\Documents\C# assignments\HelloMethods\obj\Debug\net7.0\HelloMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bailey\OneDrive\Documents\C# assignments\HelloMethods\obj\Debug\net7.0\HelloMethods.AssemblyInfoInputs.cache
+C:\Users\Bailey\OneDrive\Documents\C# assignments\HelloMethods\obj\Debug\net7.0\HelloMethods.AssemblyInfo.cs
+C:\Users\Bailey\OneDrive\Documents\C# assignments\HelloMethods\obj\Debug\net7.0\HelloMethods.csproj.CoreCompileInputs.cache
+C:\Users\Bailey\OneDrive\Documents\C# assignments\HelloMethods\obj\Debug\net7.0\HelloMethods.dll
+C:\Users\Bailey\OneDrive\Documents\C# assignments\HelloMethods\obj\Debug\net7.0\refint\HelloMethods.dll
+C:\Users\Bailey\OneDrive\Documents\C# assignments\HelloMethods\obj\Debug\net7.0\HelloMethods.pdb
+C:\Users\Bailey\OneDrive\Documents\C# assignments\HelloMethods\obj\Debug\net7.0\HelloMethods.genruntimeconfig.cache
+C:\Users\Bailey\OneDrive\Documents\C# assignments\HelloMethods\obj\Debug\net7.0\ref\HelloMethods.dll
